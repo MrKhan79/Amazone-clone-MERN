@@ -1,14 +1,10 @@
-# AMAZON CLONE
+AMAZON CLONE
 
 An Amazon clone Using MERN
 <br>
-<br>
 
 
-
-<br>
-
-## Features
+Features
 
 - Register or login as an user.
 - Update user account.
@@ -16,11 +12,10 @@ An Amazon clone Using MERN
 - Apply filters for searching products.
 - Add products to cart.
 - Change the required number for products.
-- Payment with PayPal.
 - Create order.
 - Check order history.
 
-##  NPM Packages Used
+NPM Packages Used
 
 - React-redux
 - Material UI
@@ -29,4 +24,4 @@ An Amazon clone Using MERN
 - Mongoose
 
 <br>
-> ### Web App Link - https://amazon-mern-clone.netlify.app/
+>App Link - https://amazon-mern-clone.netlify.app/
